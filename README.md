@@ -387,8 +387,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Manish**
 
-- GitHub: [@yourusername](https://github.com/manish93s)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/manish2111)
+- GitHub: [@manish930s](https://github.com/manish93s)
+- LinkedIn: [https://linkedin.com/in/manish2111](https://linkedin.com/in/manish2111)
 
 ---
 
